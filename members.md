@@ -74,7 +74,7 @@ figcaption {
 </figure>
 <figure>
 	<img src="/images/members/JF-paquet.jpg">
-	<figcaption>John Paquet</figcaption>
+	<figcaption>Jean-Francois Paquet</figcaption>
 </figure>
 <figure>
     	<img src="/images/members/kelly-holley-bockelmann.jpg" >
@@ -134,6 +134,10 @@ figcaption {
     <img src="/images/members/shengquan-tuo.jpg" >
 	<figcaption>Shengquan Tuo</figcaption>
 </figure>
+<figure>
+    <img src="/images/members/lorenzo-gavassino.jpg" >
+	<figcaption>Lorenzo Gavassino</figcaption>
+</figure>
 </div>
 
 <br style="clear:both" />
@@ -181,6 +185,23 @@ figcaption {
 <figure>
     <img src="/images/members/sifan-yu.jpg" >
 	<figcaption>Sifan Yu</figcaption>
+</figure>
+<figure>
+    <img src="/images/members/lauren-kasper.jpg" >
+	<figcaption>Lauren Kasper</figcaption>
+</figure>
+</div>
+
+<br style="clear:both" />
+
+<div>
+<figure>
+    <img src="/images/members/sam-dunham.jpg" >
+	<figcaption>Sam Dunham</figcaption>
+</figure>
+<figure>
+    <img src="/images/members/marvin.jpg" >
+	<figcaption>Krystal Ruiz-Rocha</figcaption>
 </figure>
 </div>
 
