@@ -19,8 +19,18 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
+### Michael Johnson and Daniel Kapec, *Harvard-Smithsonian & Harvard CMSA*
+**December 1, 1:00 pm**
+
+<hr>
+
 ### Jorge Noronha, *UIUC*
 **January 12, 1:00 pm**
+
+<hr>
+
+### Sam Gralla, *University of Arizona*
+**January 19, 1:00 pm**
 
 <hr>
 
@@ -43,6 +53,11 @@ The high densities achieved in neutron stars and the high densities and temperat
 
 <hr>
 
+### James Dent, *ULL*
+**March 9, 1:00 pm**
+
+<hr>
+
 ### Andrew Strominger, *Harvard University*
 **March 23, 1:00 pm**
 
@@ -60,10 +75,5 @@ The high densities achieved in neutron stars and the high densities and temperat
 
 ### Frans Pretorius, *Princeton University*
 **April 27, 1:00 pm**
-
-<hr>
-
-### James Dent, *ULL*
-**May 9, 1:00 pm**
 
 <hr>
