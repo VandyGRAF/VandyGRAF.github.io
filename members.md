@@ -39,7 +39,7 @@ figcaption {
 </figure>
 <figure>
 	<img src="/images/members/marcelo-disconzi.jpg">
-	<figcaption><a href="https://wp0.vanderbilt.edu/math/bio/?who=marcelo-disconzi"> Marcelo Disconzi </a></figcaption>
+	<figcaption><a href="http://www.disconzi.net/"> Marcelo Disconzi </a></figcaption>
 </figure>
 <figure>
 	<img src="/images/members/gieri-simonett.jpg">
@@ -136,7 +136,7 @@ figcaption {
 </figure>
 <figure>
     <img src="/images/members/lorenzo-gavassino.jpg" >
-	<figcaption>Lorenzo Gavassino</figcaption>
+	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=lorenzo-gavassino"> Lorenzo Gavassino </a></figcaption>
 </figure>
 </div>
 
