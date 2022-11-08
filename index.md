@@ -14,6 +14,13 @@ feature_image: images/quanta-photon-ring.jpg
 
 ## VandyGRAF Fall Seminar Series
 
+### Robert Pisarski, *Brookhaven National Laboratory*
+**November 10, 1:00 pm**
+
+#### The Ugly Duckling and the Swan in Heavy Ion Collisions
+
+<hr>
+
 ### Elias Most, *Princeton University*
 **November 17, 1:00 pm**
 
@@ -21,6 +28,11 @@ feature_image: images/quanta-photon-ring.jpg
 
 ### Michael Johnson and Daniel Kapec, *Harvard-Smithsonian & Harvard CMSA*
 **December 1, 1:00 pm**
+
+<hr>
+
+### Daniel Kapec, *Harvard University*
+**December 8, 1:00 pm**
 
 <hr>
 
@@ -34,8 +46,13 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Kimberly Boddy, *UT Austin*
+### Marcelo Disconzi, *Vanderbilt University*
 **January 26, 1:00 pm**
+
+<hr>
+
+### Christopher Monahan, *William and Mary*
+**February 2, 1:00 pm**
 
 <hr>
 
@@ -70,6 +87,11 @@ The high densities achieved in neutron stars and the high densities and temperat
 
 ### Charles Gale, *McGill University*
 **April 13, 1:00 pm**
+
+<hr>
+
+### Mark Trodden, *University of Pennsylvania*
+**April 20, 1:00 pm**
 
 <hr>
 
