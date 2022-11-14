@@ -13,3 +13,4 @@ description: Vandygraf archive
 | October 20 | <a href="/shane-larson"> Shane Larson </a> |
 | October 27 | <a href="/trevor-gravely"> Trevor Gravely </a> |
 | November 3 | <a href="/gautam-satishchandran"> Gautam Satishchandran </a> |
+| November 10 | <a href="/robert-pisarski"> Robert Pisarski </a> |

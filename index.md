@@ -14,10 +14,7 @@ feature_image: images/quanta-photon-ring.jpg
 
 ## VandyGRAF Fall Seminar Series
 
-### Robert Pisarski, *Brookhaven National Laboratory*
-**November 10, 1:00 pm**
-
-#### The Ugly Duckling and the Swan in Heavy Ion Collisions
+**All VandyGRAF talks will take place in SC 6333.**
 
 <hr>
 
@@ -52,7 +49,7 @@ gravitational events.
 
 <hr>
 
-### Michael Johnson and Daniel Kapec, *Harvard-Smithsonian & Harvard CMSA*
+### Michael Johnson, *Harvard-Smithsonian*
 **December 1, 1:00 pm**
 
 <hr>
