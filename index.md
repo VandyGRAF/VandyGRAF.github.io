@@ -99,6 +99,16 @@ learn about dense matter in the near future.
 
 <hr>
 
+### Lorenzo Gavassino, *Vanderbilt University*
+**February 16, 1:00 pm**
+
+<hr>
+
+### Robert Scherrer, *Vanderbilt University*
+**February 23, 1:00 pm**
+
+<hr>
+
 ### Bill Press, *UT Austin*
 **March 2, 1:00 pm**
 
@@ -116,6 +126,11 @@ learn about dense matter in the near future.
 
 ### Edgar Shaghoulian, *University of Pennsylvania*
 **March 30, 1:00 pm**
+
+<hr>
+
+### Alejandro Cardenas-Avendano, *Princeton University*
+**April 6, 1:00 pm**
 
 <hr>
 
