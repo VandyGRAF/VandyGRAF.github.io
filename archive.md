@@ -15,3 +15,5 @@ description: Vandygraf archive
 | November 3   | <a href="/gautam-satishchandran"> Gautam Satishchandran </a> |
 | November 10  | <a href="/robert-pisarski"> Robert Pisarski </a>             |
 | November 17  | <a href="/elias-most"> Elias Most </a>                       |
+| December 1   | <a href="/michael-johnson"> Michael Johnson </a>             |
+| December 8   | <a href="/daniel-kapec"> Daniel Kapec </a>                   |
