@@ -17,3 +17,4 @@ description: Vandygraf archive
 | November 17  | <a href="/elias-most"> Elias Most </a>                       |
 | December 1   | <a href="/michael-johnson"> Michael Johnson </a>             |
 | December 8   | <a href="/daniel-kapec"> Daniel Kapec </a>                   |
+| January 12   | <a href="/jorge-noronha"> Jorge Noronha </a>                   |
