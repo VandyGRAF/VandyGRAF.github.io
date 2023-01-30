@@ -18,35 +18,23 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Sam Gralla, *University of Arizona*
-**January 19, 1:00 pm**
-
-#### Alice's adventures with bombs, Bobs, and black holes
- 
-The harmonization of gravity and quantum mechanics is a major open question in
-physics, and the obstacles involve conceptual difficulties surrounding
-observables and measurement.  I will give a pedagogical presentation, at the
-advanced undergraduate level, of three thought experiments that probe the
-relationships between gravity, measurement, and quantum mechanics.  The first
-is the Eliztur-Vaidman bomb, which demonstrates "interaction-free measurement"
-and has been experimentally realized.  The second is a puzzle due to Mari et
-al, whose resolution in Belanchia et al and Danielson-Satischandran-Wald (DSW)
-demonstrates that gravitationally mediated entanglement requires a fully
-quantized gravitational field (the existence of gravitons), opening the door to
-tabletop experimental evidence for quantum gravity.  The third is a
-demonstration, also by DSW, that black holes passively decohere external
-quantum states, showing that strong gravity regions have a profound influence
-even on distant quantum systems.
-
-<hr>
-
-### Kim Boddy, *UT Austin*
-**January 26, 1:00 pm**
-
-<hr>
-
 ### Christopher Monahan, *William and Mary*
 **February 2, 1:00 pm**
+
+#### Pictures of a proton: quarks, gluons and hadrons from first principles
+ 
+Understanding in detail the properties of protons and neutrons, two of the
+basic building blocks of the visible Universe, has been a long-standing goal
+for nuclear physics. The strong nuclear force binds together quarks and gluons
+into protons, neutrons and other hadrons, but the nonlinear, strongly-coupled
+nature of the strong force makes calculations of hadron properties very
+challenging. Recent theoretical developments mean calculations of the internal
+structure of hadrons, using lattice quantum chromodynamics (QCD), have now
+become possible. Recent proof-of-principle calculations of generalised parton
+distributions, which encode the three-dimensional structure of hadrons, marked
+the advent of a new era in lattice QCD calculations. I introduce the ideas that
+underpin these developments and summarise some of the most exciting recent
+results.
 
 <hr>
 

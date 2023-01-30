@@ -18,3 +18,5 @@ description: Vandygraf archive
 | December 1   | <a href="/michael-johnson"> Michael Johnson </a>             |
 | December 8   | <a href="/daniel-kapec"> Daniel Kapec </a>                   |
 | January 12   | <a href="/jorge-noronha"> Jorge Noronha </a>                   |
+| January 19   | <a href="/sam-gralla"> Sam Gralla </a>                   |
+| January 26   | <a href="/kim-boddy"> Kim Boddy </a>                   |
