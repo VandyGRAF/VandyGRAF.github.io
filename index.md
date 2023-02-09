@@ -58,12 +58,12 @@ learn about dense matter in the near future.
 
 <hr>
 
-### Lorenzo Gavassino, *Vanderbilt University*
+### Mohammad Safarzadeh, *NASA-GSFC*
 **February 16, 1:00 pm**
 
 <hr>
 
-### Robert Scherrer, *Vanderbilt University*
+### Lorenzo Gavassino, *Vanderbilt University*
 **February 23, 1:00 pm**
 
 <hr>
