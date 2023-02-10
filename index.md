@@ -18,25 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Christopher Monahan, *William and Mary*
-**February 2, 1:00 pm**
-
-#### Pictures of a proton: quarks, gluons and hadrons from first principles
- 
-Understanding in detail the properties of protons and neutrons, two of the
-basic building blocks of the visible Universe, has been a long-standing goal
-for nuclear physics. The strong nuclear force binds together quarks and gluons
-into protons, neutrons and other hadrons, but the nonlinear, strongly-coupled
-nature of the strong force makes calculations of hadron properties very
-challenging. Recent theoretical developments mean calculations of the internal
-structure of hadrons, using lattice quantum chromodynamics (QCD), have now
-become possible. Recent proof-of-principle calculations of generalised parton
-distributions, which encode the three-dimensional structure of hadrons, marked
-the advent of a new era in lattice QCD calculations. I introduce the ideas that
-underpin these developments and summarise some of the most exciting recent
-results.
-
-<hr>
 
 ### Veronica Dexheimer, *Kent State University*
 **February 9, 1:00 pm**
@@ -61,6 +42,21 @@ learn about dense matter in the near future.
 ### Mohammad Safarzadeh, *NASA-GSFC*
 **February 16, 1:00 pm**
 
+#### Mysterious Black holes, Cosmology, and current state of AI in gravitational waves. 
+
+Our understanding of the formation channels of stellar mass compact objects
+have been challenged by the discovery of massive binary black holes in the
+third observing run of LIGO/Virgo Collaboration.  It is imaginable that our
+theories of supermassive black hole formation should be revisited by the launch
+of LISA that targets gravitational wave observations of supermassive black
+holes at high redshifts.  I will start by discussing potential solutions to
+some of the puzzles in massive binary black holes observed by LIGO.  I will
+then talk about how we can leverage LISA observations to constrain models of
+supermassive black hole formation together with the expansion rate of the
+universe at high redshift.  Lastly I will dive into where do we stand with the
+application of AI towards classification of gravitational waves and what is the
+path forward.
+
 <hr>
 
 ### Lorenzo Gavassino, *Vanderbilt University*
@@ -73,8 +69,10 @@ learn about dense matter in the near future.
 
 <hr>
 
-### James Dent, *ULL*
+### James Dent, *Sam Houston State University*
 **March 9, 1:00 pm**
+
+#### Superradiance and Gravitational Waves
 
 <hr>
 

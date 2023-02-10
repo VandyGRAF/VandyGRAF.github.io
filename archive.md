@@ -20,3 +20,5 @@ description: Vandygraf archive
 | January 12   | <a href="/jorge-noronha"> Jorge Noronha </a>                   |
 | January 19   | <a href="/sam-gralla"> Sam Gralla </a>                   |
 | January 26   | <a href="/kim-boddy"> Kim Boddy </a>                   |
+| January 26   | <a href="/kim-boddy"> Kim Boddy </a>                   |
+| February 2   | <a href="/christopher-monahan"> Christopher Monahan </a>                   |
