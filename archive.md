@@ -17,8 +17,8 @@ description: Vandygraf archive
 | November 17  | <a href="/elias-most"> Elias Most </a>                       |
 | December 1   | <a href="/michael-johnson"> Michael Johnson </a>             |
 | December 8   | <a href="/daniel-kapec"> Daniel Kapec </a>                   |
-| January 12   | <a href="/jorge-noronha"> Jorge Noronha </a>                   |
-| January 19   | <a href="/sam-gralla"> Sam Gralla </a>                   |
-| January 26   | <a href="/kim-boddy"> Kim Boddy </a>                   |
-| January 26   | <a href="/kim-boddy"> Kim Boddy </a>                   |
-| February 2   | <a href="/christopher-monahan"> Christopher Monahan </a>                   |
+| January 12   | <a href="/jorge-noronha"> Jorge Noronha </a>                 |
+| January 19   | <a href="/sam-gralla"> Sam Gralla </a>                       |
+| January 26   | <a href="/kim-boddy"> Kim Boddy </a>                         |
+| February 2   | <a href="/christopher-monahan"> Christopher Monahan </a>     |
+| February 9   | <a href="/veronica-dexheimer"> Veronica Dexheimer </a>       |
