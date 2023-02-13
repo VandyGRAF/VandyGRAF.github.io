@@ -18,7 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-
 ### Mohammad Safarzadeh, *NASA-GSFC*
 **February 16, 1:00 pm**
 
