@@ -6,4 +6,4 @@ description: Trevor Gravely
 
 *Vanderbilt University*, **October 27, 1:00 pm**
 
-### Coherent States in AdS3-CFT2 Holography
+### Virasoro-Group-Coherent States in AdS3-CFT2 Holography

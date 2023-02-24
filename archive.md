@@ -22,3 +22,5 @@ description: Vandygraf archive
 | January 26   | <a href="/kim-boddy"> Kim Boddy </a>                         |
 | February 2   | <a href="/christopher-monahan"> Christopher Monahan </a>     |
 | February 9   | <a href="/veronica-dexheimer"> Veronica Dexheimer </a>       |
+| February 16  | <a href="/mohammad-safarzadeh"> Mohammad Safarzadeh </a>     |
+| February 23  | <a href="/lorenzo-gavassino"> Lorenzo Gavassino </a>         |
