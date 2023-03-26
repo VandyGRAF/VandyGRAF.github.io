@@ -19,23 +19,6 @@ feature_image: images/quanta-photon-ring.jpg
 <hr>
 
 
-### Bill Press, *UT Austin*
-**March 2, 1:00 pm**
-
-<hr>
-
-### James Dent, *Sam Houston State University*
-**March 9, 1:00 pm**
-
-#### The Gertsenshtein Effect
-
-<hr>
-
-### Andrew Strominger, *Harvard University*
-**March 23, 1:00 pm**
-
-<hr>
-
 ### Edgar Shaghoulian, *University of Pennsylvania*
 **March 30, 1:00 pm**
 

@@ -24,3 +24,6 @@ description: Vandygraf archive
 | February 9   | <a href="/veronica-dexheimer"> Veronica Dexheimer </a>       |
 | February 16  | <a href="/mohammad-safarzadeh"> Mohammad Safarzadeh </a>     |
 | February 23  | <a href="/lorenzo-gavassino"> Lorenzo Gavassino </a>         |
+| March 2      | <a href="/bill-press"> Bill Press </a>                       |
+| March 9      | <a href="/james-dent"> James Dent </a>                       |
+| March 23     | <a href="/andrew-strominger"> Andrew Strominger </a>         |
