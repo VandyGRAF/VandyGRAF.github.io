@@ -27,3 +27,4 @@ description: Vandygraf archive
 | March 2      | <a href="/bill-press"> Bill Press </a>                       |
 | March 9      | <a href="/james-dent"> James Dent </a>                       |
 | March 23     | <a href="/andrew-strominger"> Andrew Strominger </a>         |
+| March 30     | <a href="/edgar-shaghoulian"> Edgar Shaghoulian </a>         |

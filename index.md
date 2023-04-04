@@ -18,12 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-
-### Edgar Shaghoulian, *University of Pennsylvania*
-**March 30, 1:00 pm**
-
-<hr>
-
 ### Alejandro Cardenas-Avendano, *Princeton University*
 **April 6, 1:00 pm**
 
