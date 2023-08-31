@@ -18,22 +18,8 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Alejandro Cardenas-Avendano, *Princeton University*
-**April 6, 1:00 pm**
+### Heinrich Paes, *TU Dortmund*
+**September 8, 12:00 pm - 2:00 pm**
 
 <hr>
 
-### Charles Gale, *McGill University*
-**April 13, 1:00 pm**
-
-<hr>
-
-### Mark Trodden, *University of Pennsylvania*
-**April 20, 1:00 pm**
-
-<hr>
-
-### Frans Pretorius, *Princeton University*
-**April 27, 1:00 pm**
-
-<hr>

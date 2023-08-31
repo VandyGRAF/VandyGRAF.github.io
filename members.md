@@ -106,6 +106,10 @@ figcaption {
     	<img src="/images/members/robert-scherrer.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/physics/bio/robert-scherrer"> Robert Scherrer </a></figcaption>
 </figure>
+<figure>
+    <img src="/images/members/raghav-kunnawalkamelayavalli.jpg" >
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/raghav-kunnawalkamelayavalli"> Raghav Kunnawalkam </a></figcaption>
+</figure>
 </div>
 
 <br style="clear:both" />
