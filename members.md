@@ -136,7 +136,7 @@ figcaption {
 
 <div>
 <figure>
-    <img src="/images/members/shengquan-tuo.jpg" >
+    <img src="/images/members/shengquan-tuo_2.jpg" >
 	<figcaption><a href="https://my.vanderbilt.edu/shengquantuo/"> Shenquan Tuo </a></figcaption>
 </figure>
 <figure>
