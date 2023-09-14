@@ -20,6 +20,7 @@ description: Vandygraf member page
 figure {
     width: 25%;
     float: left;
+    object-fit: contain;
     margin: 0;
     text-align: center;
     padding: 10px;
@@ -141,6 +142,19 @@ figcaption {
 <figure>
     <img src="/images/members/lorenzo-gavassino.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=lorenzo-gavassino"> Lorenzo Gavassino </a></figcaption>
+</figure>
+<figure>
+    <img src="/images/members/mayank-singh.jpg" >
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/mayank-singh/"> Mayank Singh </a></figcaption>
+</figure>
+</div>
+
+<br style="clear:both" />
+
+<div>
+<figure>
+    <img src="/images/members/gabriel-soares-rocha.jpg" >
+	<figcaption> Gabriel Soares Rocha </figcaption>
 </figure>
 </div>
 

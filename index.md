@@ -18,8 +18,20 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Heinrich Paes, *TU Dortmund*
-**September 8, 12:00 pm - 2:00 pm**
+### Alex Maloney, *McGill University*
+**September 22, 12:00 pm - 2:00 pm**
+
+### Roger Blandford, *Stanford University*
+**September 29, 12:00 pm - 2:00 pm**
+
+### Daniel Mayerson, *Leuven University*
+**October 20, 12:00 pm - 2:00 pm**
+
+### Abhishek Hegde, *UIUC*
+**November 17, 12:00 pm - 2:00 pm**
+
+### Nicki Mullins, *UIUC*
+**December 08, 12:00 pm - 2:00 pm**
 
 <hr>
 
