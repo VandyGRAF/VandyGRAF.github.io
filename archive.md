@@ -8,7 +8,8 @@ description: Vandygraf archive
 
 | Date         | Speaker                                                      |
 |--------------|--------------------------------------------------------------|
-| September 8, 2023 | <a href="archived-speakers/heinrich-paes"> Heinrich Paes </a>    |
+| September 8, 2023  | <a href="archived-speakers/heinrich-paes"> Heinrich Paes </a>    |
+| September 22, 2023 | <a href="archived-speakers/alex-maloney"> Alex Maloney </a>      |
 
 
 **2022-2023**

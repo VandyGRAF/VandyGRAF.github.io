@@ -18,19 +18,25 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Alex Maloney, *McGill University*
-**September 22, 12:00 pm - 2:00 pm**
-
 ### Roger Blandford, *Stanford University*
 **September 29, 12:00 pm - 2:00 pm**
+
+### Gabriel Soares Rocha, *Vanderbilt University*
+**October 13, 12:00 pm - 2:00 pm**
 
 ### Daniel Mayerson, *Leuven University*
 **October 20, 12:00 pm - 2:00 pm**
 
-### Abhishek Hegde, *UIUC*
+### Ken Olum, *Tufts University*
+**November 3, 12:00 pm - 2:00 pm**
+
+### Roman Berens, *Vanderbilt University*
+**November 10, 12:00 pm - 2:00 pm**
+
+### Abhishek Hegade, *University of Illinois Urbana-Champaign*
 **November 17, 12:00 pm - 2:00 pm**
 
-### Nicki Mullins, *UIUC*
+### Nicki Mullins, *University of Illinois Urbana-Champaign*
 **December 08, 12:00 pm - 2:00 pm**
 
 <hr>
