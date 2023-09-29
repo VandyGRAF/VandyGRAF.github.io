@@ -18,9 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Roger Blandford, *Stanford University*
-**September 29, 12:00 pm - 2:00 pm**
-
 ### Gabriel Soares Rocha, *Vanderbilt University*
 **October 13, 12:00 pm - 2:00 pm**
 
@@ -35,6 +32,9 @@ feature_image: images/quanta-photon-ring.jpg
 
 ### Abhishek Hegade, *University of Illinois Urbana-Champaign*
 **November 17, 12:00 pm - 2:00 pm**
+
+### Andrew Chael, *Princeton University*
+**December 1, 12:00 pm - 2:00 pm**
 
 ### Nicki Mullins, *University of Illinois Urbana-Champaign*
 **December 08, 12:00 pm - 2:00 pm**
