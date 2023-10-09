@@ -26,6 +26,9 @@ feature_image: images/quanta-photon-ring.jpg
 ### Daniel Mayerson, *Leuven University*
 **October 20, 12:00 pm - 2:00 pm**
 
+### Chandrodoy Chattopadhyay, *North Carolina State University*
+**October 27, 12:00 pm - 2:00 pm**
+
 ### Ken Olum, *Tufts University*
 **November 3, 12:00 pm - 2:00 pm**
 
