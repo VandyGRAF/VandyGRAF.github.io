@@ -10,7 +10,8 @@ description: Vandygraf archive
 |--------------|--------------------------------------------------------------|
 | September 8, 2023  | <a href="archived-speakers/heinrich-paes"> Heinrich Paes </a>    |
 | September 22, 2023 | <a href="archived-speakers/alex-maloney"> Alex Maloney </a>      |
-| September 22, 2023 | <a href="archived-speakers/roger-blandford"> Roger Blandford </a>|
+| September 29, 2023 | <a href="archived-speakers/roger-blandford"> Roger Blandford </a>|
+| October 13, 2023   | <a href="archived-speakers/david-kaiser"> David Kaiser </a>|
 
 
 **2022-2023**
