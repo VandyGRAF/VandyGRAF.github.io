@@ -13,6 +13,7 @@ description: Vandygraf archive
 | September 29, 2023 | <a href="archived-speakers/roger-blandford"> Roger Blandford </a>|
 | October 13, 2023   | <a href="archived-speakers/david-kaiser"> David Kaiser </a>      |
 | October 20, 2023   | <a href="archived-speakers/daniel-mayerson"> Daniel Mayerson </a>|
+| October 27, 2023   | <a href="archived-speakers/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
 
 
 **2022-2023**
