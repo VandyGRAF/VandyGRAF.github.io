@@ -14,6 +14,7 @@ description: Vandygraf archive
 | October 13, 2023   | <a href="archived-speakers/david-kaiser"> David Kaiser </a>      |
 | October 20, 2023   | <a href="archived-speakers/daniel-mayerson"> Daniel Mayerson </a>|
 | October 27, 2023   | <a href="archived-speakers/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
+| November 3, 2023   | <a href="archived-speakers/ken-olum"> Ken Olum </a>|
 
 
 **2022-2023**
