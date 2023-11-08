@@ -154,7 +154,7 @@ figcaption {
 <div>
 <figure>
     <img src="/images/members/gabriel-soares-rocha.jpg" >
-	<figcaption> Gabriel Soares Rocha </figcaption>
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/gabriel-soaresrocha/"> Gabriel Soares Rocha </a></figcaption>
 </figure>
 <figure>
     <img src="/images/members/roman-berens.jpg" >
