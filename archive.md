@@ -8,13 +8,14 @@ description: Vandygraf archive
 
 | Date         | Speaker                                                      |
 |--------------|--------------------------------------------------------------|
-| September 8, 2023  | <a href="archived-speakers/heinrich-paes"> Heinrich Paes </a>    |
-| September 22, 2023 | <a href="archived-speakers/alex-maloney"> Alex Maloney </a>      |
-| September 29, 2023 | <a href="archived-speakers/roger-blandford"> Roger Blandford </a>|
-| October 13, 2023   | <a href="archived-speakers/david-kaiser"> David Kaiser </a>      |
-| October 20, 2023   | <a href="archived-speakers/daniel-mayerson"> Daniel Mayerson </a>|
-| October 27, 2023   | <a href="archived-speakers/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
-| November 3, 2023   | <a href="archived-speakers/ken-olum"> Ken Olum </a>|
+| September 8, 2023   | <a href="archived-speakers/heinrich-paes"> Heinrich Paes </a>    |
+| September 22, 2023  | <a href="archived-speakers/alex-maloney"> Alex Maloney </a>      |
+| September 29, 2023  | <a href="archived-speakers/roger-blandford"> Roger Blandford </a>|
+| October 13, 2023    | <a href="archived-speakers/david-kaiser"> David Kaiser </a>      |
+| October 20, 2023    | <a href="archived-speakers/daniel-mayerson"> Daniel Mayerson </a>|
+| October 27, 2023    | <a href="archived-speakers/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
+| November 3, 2023    | <a href="archived-speakers/ken-olum"> Ken Olum </a>|
+| November 10, 2023   | <a href="archived-speakers/gabriel-soares-rocha"> Gabriel Soares Rocha </a>|
 
 
 **2022-2023**

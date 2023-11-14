@@ -18,11 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Gabriel Soares Rocha, *Vanderbilt University*
-**November 10, 12:00 pm - 2:00 pm**
-##### First order relativistic dissipative hydrodynamic theories from Kinetic Theory
-*Abstract:* The study of heavy ion collisions has stimulated research on the emergence of relativistic dissipative fluid dynamics from a microscopic theory and its domain of applicability. In particular,  hydrodynamic theories can be derived employing relativistic Kinetic Theory as the microscopic formalism. In this context, the Chapman-Enskog procedure leads to the traditional Navier-Stokes (NS) theory. However, NS is acausal and unstable in the relativistic regime. Usually hydrodynamic models in heavy ion collisions employ Israel-Stewart-like formalisms for the evolution of the quark-gluon plasma. They are conditionally causal and stable, but present a complex PDE structure. Recently, Bemfica-Disconzi-Noronha-Kovtun (BDNK) has been proposed. BDNK theory possesses similarities with NS, but the employment of alternative definitions of the local equilibrium state and the presence of time-like derivatives in the constitutive relations are essential render it causal, linearly stable, and strongly hyperbolic. In this talk, we shall discuss the Chapman-Enskog procedure and the modified Chapman-Enskog procedure to derive BDNK, presenting some results in toy-models used in Heavy-Ions collisions as an application.
-
 ### Abhishek Hegade, *University of Illinois Urbana-Champaign*
 **November 17, 12:00 pm - 2:00 pm**
 ##### Probing dissipative effects in neutron stars using gravitational waves
@@ -33,6 +28,8 @@ feature_image: images/quanta-photon-ring.jpg
 
 ### Nicki Mullins, *University of Illinois Urbana-Champaign*
 **December 08, 12:00 pm - 2:00 pm**
+##### Stochastic fluctuations in relativistic fluids: causality, stability, and the information current
+*Abstract:* The study of the quark-gluon plasma in high-energy nuclear physics has generated significant research into relativistic fluid dynamics. While hydrodynamic simulations have been used to model various phenomena in heavy-ion collisions, the commonly used formulations are incomplete, as they are inconsistent with basic thermodynamic principles. In particular, they lack the thermal fluctuations necessary to ensure the system realizes the correct equilibrium distribution. In this talk, I will discuss a new means of modeling thermal fluctuations in relativistic systems that ensure that the correlators are independent of the choice of spacetime foliation. This formulation is constructed using the recently developed information current, which is instrumental when studying causality and stability in relativistic systems. By using the information current to describe fluctuations, this formulation builds constraints associated with these effects directly into the modeling. Using this new method of describing fluctuating relativistic systems, we will construct an effective action and show that a fluctuation-dissipation relation can be realized in this action through a symmetry associated with detailed balance.
 
 <hr>
 
