@@ -16,6 +16,7 @@ description: Vandygraf archive
 | October 27, 2023    | <a href="archived-speakers/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
 | November 3, 2023    | <a href="archived-speakers/ken-olum"> Ken Olum </a>|
 | November 10, 2023   | <a href="archived-speakers/gabriel-soares-rocha"> Gabriel Soares Rocha </a>|
+| November 17, 2023   | <a href="archived-speakers/abhishek-hegade"> Abhishek Hegade </a>|
 
 
 **2022-2023**
