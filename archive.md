@@ -17,6 +17,7 @@ description: Vandygraf archive
 | November 3, 2023    | <a href="archived-speakers/ken-olum"> Ken Olum </a>|
 | November 10, 2023   | <a href="archived-speakers/gabriel-soares-rocha"> Gabriel Soares Rocha </a>|
 | November 17, 2023   | <a href="archived-speakers/abhishek-hegade"> Abhishek Hegade </a>|
+| December 1, 2023    | <a href="archived-speakers/andrew-chael"> Andrew Chael </a>|
 
 
 **2022-2023**

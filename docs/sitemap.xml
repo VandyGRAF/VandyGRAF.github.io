@@ -30,6 +30,9 @@
 <loc>http://localhost:4000/archived-speakers/alex-maloney</loc>
 </url>
 <url>
+<loc>http://localhost:4000/archived-speakers/andrew-chael</loc>
+</url>
+<url>
 <loc>http://localhost:4000/archived-speakers/2022-2023/andrew-strominger</loc>
 </url>
 <url>
@@ -88,6 +91,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/archived-speakers/2022-2023/jorge-noronha</loc>
+</url>
+<url>
+<loc>http://localhost:4000/archived-speakers/ken-olum</loc>
 </url>
 <url>
 <loc>http://localhost:4000/archived-speakers/2022-2023/kim-boddy</loc>
