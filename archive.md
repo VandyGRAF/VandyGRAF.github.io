@@ -18,6 +18,7 @@ description: Vandygraf archive
 | November 10, 2023   | <a href="archived-speakers/gabriel-soares-rocha"> Gabriel Soares Rocha </a>|
 | November 17, 2023   | <a href="archived-speakers/abhishek-hegade"> Abhishek Hegade </a>|
 | December 1, 2023    | <a href="archived-speakers/andrew-chael"> Andrew Chael </a>|
+| December 8, 2023    | <a href="archived-speakers/nicki-mullins"> Nicki Mullins </a>|
 
 
 **2022-2023**
