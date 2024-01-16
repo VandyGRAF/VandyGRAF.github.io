@@ -19,6 +19,7 @@ description: Vandygraf archive
 | November 17, 2023   | <a href="archived-speakers/abhishek-hegade"> Abhishek Hegade </a>|
 | December 1, 2023    | <a href="archived-speakers/andrew-chael"> Andrew Chael </a>|
 | December 8, 2023    | <a href="archived-speakers/nicki-mullins"> Nicki Mullins </a>|
+| January 12, 2024    | <a href="archived-speakers/derek-teaney"> Derek Teaney </a>|
 
 
 **2022-2023**
