@@ -12,7 +12,7 @@ feature_image: images/quanta-photon-ring.jpg
 + Evolution of partial differential equations related to fluids and gravity, including, but not restricted to, the geometric analysis of waves and fluids.
 + The physics and mathematics of neutron star mergers and high-energy nuclear collisions.
 
-## VandyGRAF Fall Seminar Series
+## VandyGRAF Seminar Series
 
 **All VandyGRAF talks will take place in SC 6333, unless indicated below.**
 
