@@ -18,11 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Pavel Kovtun, *University of Victoria*
-**January 26, 12:00 pm - 2:00 pm**
-##### Relativistic fluids and quasinormal modes
-*Abstract:* I will talk about the difficulty of incorporating viscous effects in relativistic fluids, and how studying quasinormal modes of black holes may help solve the problem.
-
 ### Matthias Kaminski, *University of Alabama*
 **February 2, 12:00 pm - 2:00 pm**
 ##### Convergence of hydrodynamics in rapidly spinning strongly coupled plasma
