@@ -21,6 +21,7 @@ description: Vandygraf archive
 | December 8, 2023    | <a href="archived-speakers/nicki-mullins"> Nicki Mullins </a>|
 | January 12, 2024    | <a href="archived-speakers/derek-teaney"> Derek Teaney </a>|
 | January 26, 2024    | <a href="archived-speakers/pavel-kovtun"> Pavel Kovtun </a>|
+| February 2, 2024    | <a href="archived-speakers/matthias-kaminski"> Matthias Kaminski </a>|
 
 
 **2022-2023**
