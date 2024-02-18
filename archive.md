@@ -23,6 +23,7 @@ description: Vandygraf archive
 | January 26, 2024    | <a href="archived-speakers/pavel-kovtun"> Pavel Kovtun </a>|
 | February 2, 2024    | <a href="archived-speakers/matthias-kaminski"> Matthias Kaminski </a>|
 | February 9, 2024    | <a href="archived-speakers/clifford-will"> Clifford Will </a>|
+| February 16, 2024   | <a href="archived-speakers/jess-mciver"> Jess McIver </a>|
 
 
 **2022-2023**
