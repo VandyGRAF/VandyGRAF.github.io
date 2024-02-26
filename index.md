@@ -18,13 +18,10 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-### Andrea Palermo, *Stony Brook University*
-**February 23, 12:00 pm - 2:00 pm**
-##### Exact expectation values in relativistic fluids with rotation and acceleration
-*Abstract:* In special relativity, the most general equilibrium state is characterized by a constant angular velocity and/or acceleration. These kinds of states can approximately describe several systems, including the vortical Quark-Gluon Plasma created in heavy ion collisions. In this talk, I will present a framework to compute expectation values in relativistic fluids at global thermodynamic equilibrium with rotation and acceleration. Utilizing an iterative method and analytic continuation, I will derive exact expressions for the Wigner function, conserved currents, spin density matrix, and spin polarization vector. I will explore the phenomenological implications of these findings, addressing the polarization of the Λ hyperon in relativistic heavy-ion collisions.
-
 ### Deborah Ferguson, *University of Illinois Urbana-Champaign*
 **March 1, 12:00 pm - 2:00 pm**
+##### Numerical Relativity for Next-Generation Gravitational-Wave Observation
+*Abstract:* With LIGO's fourth observing run already underway, gravitational wave observations are becoming significantly louder and more frequent. As we look toward O5 and next-generation observatories such as Cosmic Explorer and LISA, signal-to-noise ratios will reach into the hundreds and possibly thousands. This brings incredible opportunities to study gravity at its strongest, but the loud, overlapping signals also lead to more stringent requirements on waveform modeling. To fully capitalize on this wealth of data, we need accurate waveforms that densely cover the parameter space. In this talk, I will discuss our efforts to prepare numerical relativity for the exciting opportunities that are to come.
 
 ### Paul Romatschke, *University of Colorado Boulder*
 **March 8, 12:00 pm - 2:00 pm**
@@ -36,6 +33,9 @@ feature_image: images/quanta-photon-ring.jpg
 
 ### Jacob Lange, *University of Texas Austin*
 **March 29, 12:00 pm - 2:00 pm**
+
+### Leonardo Abbrescia, *Vanderbilt University*
+**April 5, 12:00 pm - 2:00 pm**
 
 ### David Garfinkle, *Oakland University*
 **April 12, 12:00 pm - 2:00 pm**

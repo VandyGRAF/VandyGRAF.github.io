@@ -24,6 +24,7 @@ description: Vandygraf archive
 | February 2, 2024    | <a href="archived-speakers/matthias-kaminski"> Matthias Kaminski </a>|
 | February 9, 2024    | <a href="archived-speakers/clifford-will"> Clifford Will </a>|
 | February 16, 2024   | <a href="archived-speakers/jess-mciver"> Jess McIver </a>|
+| February 23, 2024   | <a href="archived-speakers/andrea-palermo"> Andrea Palermo </a>|
 
 
 **2022-2023**
