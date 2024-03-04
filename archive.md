@@ -25,6 +25,7 @@ description: Vandygraf archive
 | February 9, 2024    | <a href="archived-speakers/clifford-will"> Clifford Will </a>|
 | February 16, 2024   | <a href="archived-speakers/jess-mciver"> Jess McIver </a>|
 | February 23, 2024   | <a href="archived-speakers/andrea-palermo"> Andrea Palermo </a>|
+| March 1, 2024       | <a href="archived-speakers/deborah-ferguson"> Deborah Ferguson </a>|
 
 
 **2022-2023**
