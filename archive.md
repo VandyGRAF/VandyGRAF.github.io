@@ -26,6 +26,7 @@ description: Vandygraf archive
 | February 16, 2024   | <a href="archived-speakers/jess-mciver"> Jess McIver </a>|
 | February 23, 2024   | <a href="archived-speakers/andrea-palermo"> Andrea Palermo </a>|
 | March 1, 2024       | <a href="archived-speakers/deborah-ferguson"> Deborah Ferguson </a>|
+| March 8, 2024       | <a href="archived-speakers/paul-romatschke"> Paul Romatschke </a>|
 
 
 **2022-2023**
