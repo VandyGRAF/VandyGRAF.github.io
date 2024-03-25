@@ -27,6 +27,7 @@ description: Vandygraf archive
 | February 23, 2024   | <a href="archived-speakers/andrea-palermo"> Andrea Palermo </a>|
 | March 1, 2024       | <a href="archived-speakers/deborah-ferguson"> Deborah Ferguson </a>|
 | March 8, 2024       | <a href="archived-speakers/paul-romatschke"> Paul Romatschke </a>|
+| March 22, 2024      | <a href="archived-speakers/roman-berens"> Roman Berens </a>|
 
 
 **2022-2023**
