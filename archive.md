@@ -29,6 +29,7 @@ description: Vandygraf archive
 | March 8, 2024       | <a href="archived-speakers/paul-romatschke"> Paul Romatschke </a>|
 | March 22, 2024      | <a href="archived-speakers/roman-berens"> Roman Berens </a>|
 | March 29, 2024      | <a href="archived-speakers/jacob-lange"> Jacob Lange </a>|
+| April 5, 2024       | <a href="archived-speakers/leonardo-abbrescia"> Leonardo Abbrescia </a>|
 
 
 **2022-2023**
