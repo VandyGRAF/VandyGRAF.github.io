@@ -30,6 +30,7 @@ description: Vandygraf archive
 | March 22, 2024      | <a href="archived-speakers/roman-berens"> Roman Berens </a>|
 | March 29, 2024      | <a href="archived-speakers/jacob-lange"> Jacob Lange </a>|
 | April 5, 2024       | <a href="archived-speakers/leonardo-abbrescia"> Leonardo Abbrescia </a>|
+| April 12, 2024      | <a href="archived-speakers/david-garfinkle"> David Garfinkle </a>|
 
 
 **2022-2023**
