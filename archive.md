@@ -8,29 +8,30 @@ description: Vandygraf archive
 
 | Date         | Speaker                                                      |
 |--------------|--------------------------------------------------------------|
-| September 8, 2023   | <a href="archived-speakers/heinrich-paes"> Heinrich Paes </a>    |
-| September 22, 2023  | <a href="archived-speakers/alex-maloney"> Alex Maloney </a>      |
-| September 29, 2023  | <a href="archived-speakers/roger-blandford"> Roger Blandford </a>|
-| October 13, 2023    | <a href="archived-speakers/david-kaiser"> David Kaiser </a>      |
-| October 20, 2023    | <a href="archived-speakers/daniel-mayerson"> Daniel Mayerson </a>|
-| October 27, 2023    | <a href="archived-speakers/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
-| November 3, 2023    | <a href="archived-speakers/ken-olum"> Ken Olum </a>|
-| November 10, 2023   | <a href="archived-speakers/gabriel-soares-rocha"> Gabriel Soares Rocha </a>|
-| November 17, 2023   | <a href="archived-speakers/abhishek-hegade"> Abhishek Hegade </a>|
-| December 1, 2023    | <a href="archived-speakers/andrew-chael"> Andrew Chael </a>|
-| December 8, 2023    | <a href="archived-speakers/nicki-mullins"> Nicki Mullins </a>|
-| January 12, 2024    | <a href="archived-speakers/derek-teaney"> Derek Teaney </a>|
-| January 26, 2024    | <a href="archived-speakers/pavel-kovtun"> Pavel Kovtun </a>|
-| February 2, 2024    | <a href="archived-speakers/matthias-kaminski"> Matthias Kaminski </a>|
-| February 9, 2024    | <a href="archived-speakers/clifford-will"> Clifford Will </a>|
-| February 16, 2024   | <a href="archived-speakers/jess-mciver"> Jess McIver </a>|
-| February 23, 2024   | <a href="archived-speakers/andrea-palermo"> Andrea Palermo </a>|
-| March 1, 2024       | <a href="archived-speakers/deborah-ferguson"> Deborah Ferguson </a>|
-| March 8, 2024       | <a href="archived-speakers/paul-romatschke"> Paul Romatschke </a>|
-| March 22, 2024      | <a href="archived-speakers/roman-berens"> Roman Berens </a>|
-| March 29, 2024      | <a href="archived-speakers/jacob-lange"> Jacob Lange </a>|
-| April 5, 2024       | <a href="archived-speakers/leonardo-abbrescia"> Leonardo Abbrescia </a>|
-| April 12, 2024      | <a href="archived-speakers/david-garfinkle"> David Garfinkle </a>|
+| September 8, 2023   | <a href="archived-speakers/2023-2024/heinrich-paes"> Heinrich Paes </a>    |
+| September 22, 2023  | <a href="archived-speakers/2023-2024/alex-maloney"> Alex Maloney </a>      |
+| September 29, 2023  | <a href="archived-speakers/2023-2024/roger-blandford"> Roger Blandford </a>|
+| October 13, 2023    | <a href="archived-speakers/2023-2024/david-kaiser"> David Kaiser </a>      |
+| October 20, 2023    | <a href="archived-speakers/2023-2024/daniel-mayerson"> Daniel Mayerson </a>|
+| October 27, 2023    | <a href="archived-speakers/2023-2024/chandrodoy-chattopadhyay"> Chandrodoy Chattopadhyay </a>|
+| November 3, 2023    | <a href="archived-speakers/2023-2024/ken-olum"> Ken Olum </a>|
+| November 10, 2023   | <a href="archived-speakers/2023-2024/gabriel-soares-rocha"> Gabriel Soares Rocha </a>|
+| November 17, 2023   | <a href="archived-speakers/2023-2024/abhishek-hegade"> Abhishek Hegade </a>|
+| December 1, 2023    | <a href="archived-speakers/2023-2024/andrew-chael"> Andrew Chael </a>|
+| December 8, 2023    | <a href="archived-speakers/2023-2024/nicki-mullins"> Nicki Mullins </a>|
+| January 12, 2024    | <a href="archived-speakers/2023-2024/derek-teaney"> Derek Teaney </a>|
+| January 26, 2024    | <a href="archived-speakers/2023-2024/pavel-kovtun"> Pavel Kovtun </a>|
+| February 2, 2024    | <a href="archived-speakers/2023-2024/matthias-kaminski"> Matthias Kaminski </a>|
+| February 9, 2024    | <a href="archived-speakers/2023-2024/clifford-will"> Clifford Will </a>|
+| February 16, 2024   | <a href="archived-speakers/2023-2024/jess-mciver"> Jess McIver </a>|
+| February 23, 2024   | <a href="archived-speakers/2023-2024/andrea-palermo"> Andrea Palermo </a>|
+| March 1, 2024       | <a href="archived-speakers/2023-2024/deborah-ferguson"> Deborah Ferguson </a>|
+| March 8, 2024       | <a href="archived-speakers/2023-2024/paul-romatschke"> Paul Romatschke </a>|
+| March 22, 2024      | <a href="archived-speakers/2023-2024/roman-berens"> Roman Berens </a>|
+| March 29, 2024      | <a href="archived-speakers/2023-2024/jacob-lange"> Jacob Lange </a>|
+| April 5, 2024       | <a href="archived-speakers/2023-2024/leonardo-abbrescia"> Leonardo Abbrescia </a>|
+| April 12, 2024      | <a href="archived-speakers/2023-2024/david-garfinkle"> David Garfinkle </a>|
+| April 19, 2024      | <a href="archived-speakers/2023-2024/grisha-tarnopolsky"> Grisha Tarnopolsky </a>|
 
 
 **2022-2023**
