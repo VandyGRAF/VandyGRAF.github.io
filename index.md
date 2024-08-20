@@ -14,9 +14,17 @@ feature_image: images/quanta-photon-ring.jpg
 
 ## VandyGRAF Seminar Series
 
-**All VandyGRAF talks will take place in SC 6333, unless indicated below.**
+**All VandyGRAF talks will take place in A1013 17th&Horton Seminar room, unless indicated below.**
 
 <hr>
 
+### Nico Yunes, *University of Illinois Urbana-Champaign*
+**September 06, 12:00 pm - 2:00 pm**
+
+### Robert Scherrer, *Vanderbilt University*
+**September 13, 12:00 pm - 2:00 pm**
+
+### Eliot Quataert, *Princeton University*
+**October 4, 12:00 pm - 2:00 pm**
 <hr>
 
