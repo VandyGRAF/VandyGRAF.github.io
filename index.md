@@ -26,5 +26,9 @@ feature_image: images/quanta-photon-ring.jpg
 
 ### Eliot Quataert, *Princeton University*
 **October 4, 12:00 pm - 2:00 pm**
+
+### James Dent, *Sam Houston State University*
+**November 22, 12:00 pm - 2:00 pm**
+
 <hr>
 
