@@ -27,6 +27,9 @@ feature_image: images/quanta-photon-ring.jpg
 ### Eliot Quataert, *Princeton University*
 **October 4, 12:00 pm - 2:00 pm**
 
+### Berndt Mueller, *Duke University*
+**October 18, 12:00 pm - 2:00 pm**
+
 ### Derek Davis, *California Institute of Technology*
 **October 25, 12:00 pm - 2:00 pm**
 
