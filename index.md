@@ -26,6 +26,9 @@ feature_image: images/quanta-photon-ring.jpg
 ### Robert Scherrer, *Vanderbilt University*
 **September 13, 12:00 pm - 2:00 pm**
 
+### Joseph Farah, *University of California, Santa Barbara*
+**September 20, 12:00 pm - 2:00 pm**
+
 ### Eliot Quataert, *Princeton University*
 **October 4, 12:00 pm - 2:00 pm**
 
