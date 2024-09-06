@@ -4,6 +4,13 @@ title: VandyGRAF Archive
 description: Vandygraf archive 
 ---
 
+**2024-2025**
+
+| Date         | Speaker                                                      |
+|--------------|--------------------------------------------------------------|
+| September 6, 2024   | <a href="archived-speakers/2024-2025/nico-yunes"> Nico Yunes </a>|
+
+
 **2023-2024**
 
 | Date         | Speaker                                                      |
