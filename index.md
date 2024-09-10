@@ -14,7 +14,7 @@ feature_image: images/quanta-photon-ring.jpg
 
 ## VandyGRAF Seminar Series
 
-**All VandyGRAF talks will take place in A1013 17th&Horton Seminar room, unless indicated below.**
+**All VandyGRAF talks will take place in the Chapel in the 17th&Horton building, unless indicated below.**
 
 <hr>
 
