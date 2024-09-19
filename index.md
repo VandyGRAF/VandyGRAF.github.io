@@ -40,5 +40,8 @@ feature_image: images/quanta-photon-ring.jpg
 ### James Dent, *Sam Houston State University*
 **November 22, 12:00 pm - 1:30 pm**
 
+### Khwahish Kushwah, *Universidade Federal Fluminense*
+**December 6, 12:00 pm - 1:30 pm**
+
 <hr>
 
