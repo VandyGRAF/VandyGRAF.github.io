@@ -10,6 +10,7 @@ description: Vandygraf archive
 |--------------|--------------------------------------------------------------|
 | September 6, 2024  | <a href="archived-speakers/2024-2025/nico-yunes"> Nico Yunes </a>                                  |
 | September 13, 2024 | <a href="archived-speakers/2024-2025/robert-scherrer"> Robert Scherrer </a>                        |
+| September 20, 2024 | <a href="archived-speakers/2024-2025/joseph-farah"> Joseph Farah </a>                        |
 
 
 **2023-2024**
