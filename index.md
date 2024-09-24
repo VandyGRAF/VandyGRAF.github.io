@@ -30,7 +30,7 @@ feature_image: images/quanta-photon-ring.jpg
 **October 25, 12:00 pm - 1:30 pm**
 
 ### Mainak Mukhopadhyay, *Pennsylvania State University*
-**November 8, 12:00 pm - 1:30 pm**
+**November 15, 12:00 pm - 1:30 pm**
 
 ### James Dent, *Sam Houston State University*
 **November 22, 12:00 pm - 1:30 pm**
