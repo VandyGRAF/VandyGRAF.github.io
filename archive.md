@@ -12,6 +12,7 @@ description: Vandygraf archive
 | September 13, 2024 | <a href="archived-speakers/2024-2025/robert-scherrer"> Robert Scherrer </a>                        |
 | September 20, 2024 | <a href="archived-speakers/2024-2025/joseph-farah"> Joseph Farah </a>                              |
 | October 4, 2024    | <a href="archived-speakers/2024-2025/eliot-quataert"> Eliot Quataert </a>                          |
+| October 18, 2024   | <a href="archived-speakers/2024-2025/berndt-mueller"> Berndt Mueller </a>                          |
 
 
 **2023-2024**

@@ -42,6 +42,9 @@
 <loc>http://localhost:4000/archive</loc>
 </url>
 <url>
+<loc>http://localhost:4000/archived-speakers/2024-2025/berndt-mueller</loc>
+</url>
+<url>
 <loc>http://localhost:4000/archived-speakers/2022-2023/bill-press</loc>
 </url>
 <url>
