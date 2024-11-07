@@ -28,9 +28,6 @@ Noether's First Theorem relates strictly invariant variational problems and cons
 ### Mainak Mukhopadhyay, *Pennsylvania State University*
 **November 15, 12:00 pm - 1:30 pm**
 
-### James Dent, *Sam Houston State University*
-**November 22, 12:00 pm - 1:30 pm**
-
 ### Khwahish Kushwah, *Universidade Federal Fluminense*
 **December 6, 12:00 pm - 1:30 pm**
 
