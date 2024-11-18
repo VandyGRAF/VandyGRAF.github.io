@@ -15,6 +15,7 @@ description: Vandygraf archive
 | October 18, 2024   | <a href="archived-speakers/2024-2025/berndt-mueller"> Berndt Mueller </a>                          |
 | October 25, 2024   | <a href="archived-speakers/2024-2025/derek-davis"> Derek Davis </a>                                |
 | November 8, 2024   | <a href="archived-speakers/2024-2025/peter-olver"> Peter Olver </a>                                |
+| November 15, 2024  | <a href="archived-speakers/2024-2025/peter-olver"> Mainak Mukhopadhyay </a>                        |
 
 
 **2023-2024**
