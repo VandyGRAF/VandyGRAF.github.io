@@ -20,6 +20,7 @@ feature_image: images/quanta-photon-ring.jpg
 
 ### Khwahish Kushwah, *Universidade Federal Fluminense*
 **December 6, 12:00 pm - 1:30 pm**
+**Venue: A1013 17th&Horton** 
 ##### Relativistic dissipative magnetohydrodynamics
 *Abstract:* I will be presenting my research on the subject of Relativistic Magnetohydrodynamics (RMHD). The focus of the discussion will be on the dynamic interactions of relativistic fluids in the presence of strong magnetic fields, particularly in the context of heavy-ion collisions. In this presentation, I will discuss the derivation of RMHD equations from the Boltzmann equation using the method of moments. Emphasis will be placed on the unique characteristics of these equations compared to traditional hydrodynamics, with a specific focus on the evolution of the shear stress tensor.
 
