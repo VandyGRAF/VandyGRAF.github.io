@@ -17,7 +17,15 @@ feature_image: images/quanta-photon-ring.jpg
 **All VandyGRAF talks will take place in the Chapel in the 17th&Horton building, unless indicated below.**
 
 <hr>
-
-
+Mayank Singh, *Vanderbilt University*, **January 31, 12:00 pm**
 <hr>
-
+Teerthal Patel, *Vanderbilt University*, **February 7, 12:00 pm**
+<hr>
+Oem Trivedi, *Ahmedabad University, India*, **February 21, 12:00 pm**
+<hr>
+Andrea Derdzinski, *Vanderbilt University*, **March 21, 12:00 pm**
+<hr>
+Blake Temple, *University of California*, **April 11, 12:00 pm**
+<hr>
+Gregory Galloway, *University of Miami*, **April 25, 12:00 pm**
+<hr>
