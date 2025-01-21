@@ -10,7 +10,7 @@ feature_image: images/quanta-photon-ring.jpg
 + General relativity: theoretical, mathematical, numerical, or experimental, including, but not restricted to, black holes, gravitational radiation, and multimessenger astrophysics.
 + Fluid mechanics: theoretical, mathematical, numerical, or experimental, including, but not restricted to, relativistic fluids far from equilibrium.
 + Evolution of partial differential equations related to fluids and gravity, including, but not restricted to, the geometric analysis of waves and fluids.
-+ The physics and mathematics of neutron star mergers and high-energy nuclear collisions.
++ The physics and mathematics of neutron star mergers and high-energy nuclear collisions.  
 
 ## VandyGRAF Seminar Series
 
