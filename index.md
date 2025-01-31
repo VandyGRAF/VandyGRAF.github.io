@@ -28,7 +28,13 @@ Teerthal Patel, *Vanderbilt University*, **February 7, 12:00 pm**
 <hr>
 Oem Trivedi, *Ahmedabad University, India*, **February 21, 12:00 pm**
 <hr>
+Maura McLaughlin, *West Virginia University*, **February 28, 12:00 pm**
+<hr>
 Andrea Derdzinski, *Vanderbilt University*, **March 21, 12:00 pm**
+<hr>
+Rebecca Surman, *University of Notre Dame *, **March 28, 12:00 pm**
+<hr>
+Janice Houston, *Center for Astrophysics, Harvard & Smithsonian*, **April 4, 12:00 pm**
 <hr>
 Blake Temple, *University of California*, **April 11, 12:00 pm**
 <hr>
