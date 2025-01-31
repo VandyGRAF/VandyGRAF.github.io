@@ -32,7 +32,7 @@ Maura McLaughlin, *West Virginia University*, **February 28, 12:00 pm**
 <hr>
 Andrea Derdzinski, *Vanderbilt University*, **March 21, 12:00 pm**
 <hr>
-Rebecca Surman, *University of Notre Dame *, **March 28, 12:00 pm**
+Rebecca Surman, *University of Notre Dame*, **March 28, 12:00 pm**
 <hr>
 Janice Houston, *Center for Astrophysics, Harvard & Smithsonian*, **April 4, 12:00 pm**
 <hr>
