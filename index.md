@@ -18,27 +18,27 @@ feature_image: images/quanta-photon-ring.jpg
 
 
 <hr>
-Teerthal Patel, *Vanderbilt University*, **February 7, 12:00 pm**
+Maura McLaughlin, *Vanderbilt University*, **February 28, 12:00 pm, Room A1013**
 
-
-**Primordial magnetogenesis from electroweak symmetry breaking**
-
-Magnetic fields are ubiquitous in the Universe, present across all scales and epochs. However, the origin of cosmological-scale fields—whether astrophysical or primordial—remains an open question. I will provide a brief overview of the observational constraints, evolution mechanism and possible origins of cosmological magnetic fields. In particular, observations suggest a lower bound of ~10−16 Gauss on large scales, supporting a primordial origin.
-	Primordial magnetic fields can significantly impact cosmic recombination and structure formation and provide crucial insights into the high energy physics. In this talk, I focus on the epoch of electroweak symmetry breaking (EWSB) as a potential origin. Specifically, we examine the structure and dynamics of magnetic monopole-antimonopole pairs that arise within electroweak theory. We resolved the field configuration of static electroweak dumbbells using "constrained numerical relaxation" and simulated their annihilation, studying their lifetimes and magnetic relics. 
-	The topology of electroweak theory gives rise to monopole pairs confined by strings, whose distribution we determined through an extension of the Kibble mechanism. These monopole-antimonopole pairs undergo annihilation, leaving behind cosmological relic magnetic fields during the EWSB epoch in the early Universe. Our ongoing EWSB simulations study the generation of primordial magnetic fields and their potential impact on present-day cosmological magnetic properties.
+**The Discovery and Promise of Fast Radio Bursts**
+Fast Radio Bursts (FRBs) are events only a few milliseconds in duration that occur at random locations on the sky at a rate of a few thousand per day. Several thousand FRBs are currently known. While it is now well established that they have a cosmological origin, and about 10% of all currently known sources have been seen to exhibit multiple bursts, the origins of these enigmatic sources are poorly understood. I will review the 2007 discovery of FRBs and present some of the highlights from the vast body of work by an international community since that time, and also describe the current best guesses on their origins and discuss cosmological insights that studies of FRBs will enable.
 
 <hr>
-Oem Trivedi, *Ahmedabad University, India*, **February 21, 12:00 pm**
+Jack Holguin, *University of Manchester, UK*, **March 7, 12:00 pm**
+
+**Revealing simple scaling laws in heavy ion jets with Energy Correlators**
+The quark-gluon plasma (QGP) is an extreme state of hot nuclear matter. Small QGP droplets are produced in heavy-ion collisions at collider experiments, leaving imprints on the radiation sprays (jets) generated in these events. Recently, the CMS Collaboration released the first measurements of energy correlators on jets in lead-lead collisions, revealing significant modifications compared to proton-proton baselines. These modifications establish energy correlators as powerful probes of QGP properties. However, interpreting these results is challenging due to experimental biases that complicate the measurement.
+
+I will discuss the first analytical predictions for these measurements and introduce a novel energy-energy correlator (EEC) cross-ratio that reduces biases by an order of magnitude while preserving sensitivity to the QGP. Using the light-ray operator product expansion, I will also show that nuclear modifications in this measurement are characterised by an enhanced twist-4 matrix element, which directly encodes properties of the quark-gluon plasma.
+
 <hr>
-Maura McLaughlin, *West Virginia University*, **February 28, 12:00 pm**
-<hr>
-Andrea Derdzinski, *Vanderbilt University*, **March 21, 12:00 pm**
+Rachel Steinhorst, *Massachusetts Institute of Technology*, **March 21, 12:00 pm**
 <hr>
 Rebecca Surman, *University of Notre Dame*, **March 28, 12:00 pm**
 <hr>
 Janice Houston, *Center for Astrophysics, Harvard & Smithsonian*, **April 4, 12:00 pm**
 <hr>
-Blake Temple, *University of California*, **April 11, 12:00 pm**
+Blake Temple, *University of California, Davis*, **April 11, 12:00 pm**
 <hr>
 Gregory Galloway, *University of Miami*, **April 25, 12:00 pm**
 <hr>

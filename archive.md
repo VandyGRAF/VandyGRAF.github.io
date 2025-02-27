@@ -18,6 +18,7 @@ description: Vandygraf archive
 | November 15, 2024  | <a href="archived-speakers/2024-2025/mainak-mukhopadhyay"> Mainak Mukhopadhyay </a>                |
 | December 6, 2024   | <a href="archived-speakers/2024-2025/khwahish-kushwah"> Khwahish Kushwah </a>                      |
 | January 31, 2025   | <a href="archived-speakers/2024-2025/mayank-singh"> Mayank Singh </a>                      |
+| February 7, 2025   | <a href="archived-speakers/2024-2025/teerthal-patel"> Teerthal Patel </a>                      |
 
 **2023-2024**
 

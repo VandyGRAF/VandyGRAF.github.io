@@ -109,7 +109,7 @@ figcaption {
 </figure>
 <figure>
     <img src="/images/members/raghav-kunnawalkamelayavalli.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/raghav-kunnawalkamelayavalli"> Raghav Kunnawalkam </a></figcaption>
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/raghav-kunnawalkamelayavalli"> Rithya Kunnawalkam </a></figcaption>
 </figure>
 </div>
 
