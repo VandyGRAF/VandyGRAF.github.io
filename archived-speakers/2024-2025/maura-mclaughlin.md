@@ -4,7 +4,7 @@ title: Maura McLaughlin
 description: Maura McLaughlin
 ---
 
-* West Virginia University*, **February 28, 12:00 pm**
+*West Virginia University*, **February 28, 12:00 pm**
 
 ### The Discovery and Promise of Fast Radio Bursts
 
