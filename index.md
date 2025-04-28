@@ -18,6 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-VandyGRAF seminars will resume in Fall 2025.
+**VandyGRAF seminars will resume in Fall 2025.**
 
 <hr>
