@@ -22,12 +22,12 @@ description: Vandygraf archive
 | February 28, 2025   | <a href="archived-speakers/2024-2025/maura-mclaughlin"> Maura McLaughlin </a>                      |
 | March 7, 2025   | <a href="archived-speakers/2024-2025/jack-holguin"> Jack Holguin </a>                      |
 | March 21, 2025   | <a href="archived-speakers/2024-2025/rachel-steinhorst"> Rachel Steinhorst  </a>                      |
-| March 21, 2025   | <a href="archived-speakers/2024-2025/rachel-steinhorst"> Rachel Steinhorst  </a>                      |
 | March 27, 2025   | <a href="archived-speakers/2024-2025/rebecca-surman"> Rebecca Surman  </a>                      |
 | April 4, 2025   | <a href="archived-speakers/2024-2025/janice-houston"> Janice Houston  </a>                      |
 | April 11, 2025   | <a href="archived-speakers/2024-2025/blake-temple"> Blake Temple  </a>                      |
 | April 18, 2025   | <a href="archived-speakers/2024-2025/scott-ransom"> Scott Ransom & Nadia Drake  </a>                      |
 | April 25, 2025   | <a href="archived-speakers/2024-2025/andrea-derdzinski"> Andrea Derdzinski </a>                      |
+
 **2023-2024**
 
 | Date         | Speaker                                                      |
