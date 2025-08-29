@@ -18,7 +18,7 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-Gregory Galloway, *University of Miami*, **September 5, 12:30 pm, Room A1013**
+Gregory Galloway, *University of Miami*, **September 5, 12:30 pm, <span style="color: red;">Room A1013</span>**
 
 **Topology and singularities in cosmological spacetimes**
 
