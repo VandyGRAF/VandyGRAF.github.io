@@ -8,6 +8,13 @@ description: Vandygraf archive
 
 | Date         | Speaker                                                      |
 |--------------|--------------------------------------------------------------|
+| September 5, 2024  | <a href="archived-speakers/2024-2025/gregory-galloway"> Gregory Galloway </a>                                  |
+| September 12, 2024 | <a href="archived-speakers/2024-2025/oem-trivedi"> Oem Trivedi </a>                        |
+
+**2024-2025**
+
+| Date         | Speaker                                                      |
+|--------------|--------------------------------------------------------------|
 | September 6, 2024  | <a href="archived-speakers/2024-2025/nico-yunes"> Nico Yunes </a>                                  |
 | September 13, 2024 | <a href="archived-speakers/2024-2025/robert-scherrer"> Robert Scherrer </a>                        |
 | September 20, 2024 | <a href="archived-speakers/2024-2025/joseph-farah"> Joseph Farah </a>                              |
