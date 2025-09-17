@@ -31,7 +31,7 @@ In this talk, I will discuss the problem of formulating a sound mathematical the
 <hr>
 
 
-K. E. Saavik Ford, *American Museum of Natural History, Dept. of Astrophysics*,
+K. E. Saavik Ford, *American Museum of Natural History, Dept. of Astrophysics*,<br>
 **September 26, 12:30 pm, <span style="color: red;">Room A1013</span>**
 
 **The AGN Channel for Stellar Mass Binary Black Hole Mergers**
