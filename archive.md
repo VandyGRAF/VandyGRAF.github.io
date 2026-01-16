@@ -4,19 +4,19 @@ title: VandyGRAF Archive
 description: Vandygraf archive 
 ---
 
-**2024-2025**
+**2025-2026**
 
 | Date         | Speaker                                                      |
 |--------------|--------------------------------------------------------------|
-| September 5, 2025  | <a href="archived-speakers/2024-2025/gregory-galloway"> Gregory Galloway </a>                                  |
-| September 12, 2025 | <a href="archived-speakers/2024-2025/oem-trivedi"> Oem Trivedi </a> 
-| September 19, 2025 | <a href="archived-speakers/2024-2025/marcelo-disconzi"> Marcelo Disconzi </a> 
-| September 26, 2025 | <a href="archived-speakers/2024-2025/saavik-ford"> K. E. Saavik Ford </a> 
-| October 17, 2025 | <a href="archived-speakers/2024-2025/shane-larson"> Shane L. Larson </a> 
-| October 24, 2025 | <a href="archived-speakers/2024-2025/david-maxwell"> David Maxwell </a> 
-| November 7, 2025 | <a href="archived-speakers/2024-2025/krishan-chand"> Krishan Chand </a> 
-| November 14, 2025 | <a href="archived-speakers/2024-2025/debora-mroczek"> Débora Mroczek  </a> |
-| December 5, 2025 | <a href="archived-speakers/2024-2025/carla-frohlich"> Carla Fröhlich </a> |
+| September 5, 2025  | <a href="archived-speakers/2025-2026/gregory-galloway"> Gregory Galloway </a>                                  |
+| September 12, 2025 | <a href="archived-speakers/2025-2026/oem-trivedi"> Oem Trivedi </a> 
+| September 19, 2025 | <a href="archived-speakers/2025-2026/marcelo-disconzi"> Marcelo Disconzi </a> 
+| September 26, 2025 | <a href="archived-speakers/2025-2026/saavik-ford"> K. E. Saavik Ford </a> 
+| October 17, 2025 | <a href="archived-speakers/2025-2026/shane-larson"> Shane L. Larson </a> 
+| October 24, 2025 | <a href="archived-speakers/2025-2026/david-maxwell"> David Maxwell </a> 
+| November 7, 2025 | <a href="archived-speakers/2025-2026/krishan-chand"> Krishan Chand </a> 
+| November 14, 2025 | <a href="archived-speakers/2025-2026/debora-mroczek"> Débora Mroczek  </a> |
+| December 5, 2025 | <a href="archived-speakers/2025-2026/carla-frohlich"> Carla Fröhlich </a> |
 
 **2024-2025**
 
