@@ -8,8 +8,15 @@ description: Vandygraf archive
 
 | Date         | Speaker                                                      |
 |--------------|--------------------------------------------------------------|
-| September 5, 2024  | <a href="archived-speakers/2024-2025/gregory-galloway"> Gregory Galloway </a>                                  |
-| September 12, 2024 | <a href="archived-speakers/2024-2025/oem-trivedi"> Oem Trivedi </a>                        |
+| September 5, 2025  | <a href="archived-speakers/2024-2025/gregory-galloway"> Gregory Galloway </a>                                  |
+| September 12, 2025 | <a href="archived-speakers/2024-2025/oem-trivedi"> Oem Trivedi </a> 
+| September 19, 2025 | <a href="archived-speakers/2024-2025/marcelo-disconzi"> Oem Trivedi </a> 
+| September 26, 2025 | <a href="archived-speakers/2024-2025/saavik-ford"> Oem Trivedi </a> 
+| October 17, 2025 | <a href="archived-speakers/2024-2025/shane-larson"> Oem Trivedi </a> 
+| October 24, 2025 | <a href="archived-speakers/2024-2025/david-maxwell"> Oem Trivedi </a> 
+| November 7, 2025 | <a href="archived-speakers/2024-2025/krishan-chand"> Oem Trivedi </a> 
+| November 14, 2025 | <a href="archived-speakers/2024-2025/debora-mroczek"> Oem Trivedi </a> |
+| December 5, 2025 | <a href="archived-speakers/2024-2025/carla-frohlich"> Oem Trivedi </a> |
 
 **2024-2025**
 
