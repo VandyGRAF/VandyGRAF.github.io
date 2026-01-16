@@ -4,7 +4,7 @@ title: Shane L. Larson
 description: Shane L. Larson
 ---
 
-*Clarkson University *, **October 17, 12:30 pm**
+*Clarkson University*, **October 17, 12:30 pm**
 
 ### Extreme Mass Ratio Inspirals, Zoom-Whirl Orbits, and Effective Potentials
 
