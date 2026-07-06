@@ -18,6 +18,6 @@ feature_image: images/quanta-photon-ring.jpg
 
 <hr>
 
-**VandyGRAF seminars will be back on Fall 2026**
+**VandyGRAF seminars will be back in Fall 2026!**
 
 <hr>
