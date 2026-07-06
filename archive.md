@@ -17,6 +17,7 @@ description: Vandygraf archive
 | November 7, 2025 | <a href="archived-speakers/2025-2026/krishan-chand"> Krishan Chand </a> 
 | November 14, 2025 | <a href="archived-speakers/2025-2026/debora-mroczek"> Débora Mroczek  </a> |
 | December 5, 2025 | <a href="archived-speakers/2025-2026/carla-frohlich"> Carla Fröhlich </a> |
+| February 20, 2026 | <a href="archived-speakers/2025-2026/anders-knospe"> Anders Knospe </a> |
 
 **2024-2025**
 
