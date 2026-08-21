@@ -77,15 +77,15 @@ figcaption {
 	<img src="/images/members/JF-paquet.jpg">
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/jean-francois-paquet"> Jean-Francois Paquet </a></figcaption>
 </figure>
+<figure>
+    	<img src="/images/members/thomas-kephart.jpg" >
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/thomas-kephart"> Thomas Kephart </a></figcaption>
+</figure>
 </div>
 
 <br style="clear:both" />
 
 <div>
-<figure>
-    	<img src="/images/members/thomas-kephart.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/thomas-kephart"> Thomas Kephart </a></figcaption>
-</figure>
 <figure>
 	<img src="/images/members/julia-velkovska.jpg">
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/julia-velkovska"> Julia Velkovska </a></figcaption>
@@ -94,15 +94,15 @@ figcaption {
     	<img src="/images/members/stephen-taylor.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/stephen-taylor"> Stephen Taylor </a></figcaption>
 </figure>
+<figure>
+    	<img src="/images/members/robert-scherrer.jpg" >
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/robert-scherrer"> Robert Scherrer </a></figcaption>
+</figure>
 </div>
 
 <br style="clear:both" />
 
 <div>
-<figure>
-    	<img src="/images/members/robert-scherrer.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/robert-scherrer"> Robert Scherrer </a></figcaption>
-</figure>
 <figure>
     <img src="/images/members/raghav-kunnawalkamelayavalli.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/raghav-kunnawalkamelayavalli"> Rithya Kunnawalkam </a></figcaption>
@@ -124,24 +124,19 @@ figcaption {
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/momchil-velkovsky"> Momchil Velkovsky </a></figcaption>
 </figure>
 
-</div>
-
-<br style="clear:both" />
-
-<div>
 <figure>
     <img src="/images/members/Tuo_Shengquan-2.jpg" >
 	<figcaption><a href="https://my.vanderbilt.edu/shengquantuo/"> Shengquan Tuo </a></figcaption>
 </figure>
-<figure>
-    <img src="/images/members/mayank-singh.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/mayank-singh/"> Mayank Singh </a></figcaption>
-</figure>
 </div>
 
 <br style="clear:both" />
 
 <div>
+<figure>
+    <img src="/images/members/mayank-singh.jpg" >
+	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/mayank-singh/"> Mayank Singh </a></figcaption>
+</figure>
 <figure>
     <img src="/images/members/teerthal-patel.jpg" >
 	<figcaption> Teerthal Patel </figcaption>
@@ -168,25 +163,20 @@ figcaption {
     <img src="/images/members/michael-reynolds.jpg" >
 	<figcaption>Michael Reynolds</figcaption>
 </figure>
+<figure>
+    <img src="/images/members/luis-bichonIII.jpg" >
+	<figcaption>Luis Bichon</figcaption>
+</figure>
 </div>
 
 <br style="clear:both" />
 
 <div>
-<figure>
-    <img src="/images/members/luis-bichonIII.jpg" >
-	<figcaption>Luis Bichon</figcaption>
-</figure>
 <figure>
     <img src="/images/members/will-mcdermott.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=will-mcdermott"> Will McDermott </a></figcaption>
 </figure>
 
-</div>
-
-<br style="clear:both" />
-
-<div>
 <figure>
     <img src="/images/members/andi-mankolli.jpg" >
 	<figcaption>Andi Mankolli</figcaption>
@@ -196,16 +186,15 @@ figcaption {
     <img src="/images/members/lauren-kasper.jpg" >
 	<figcaption>Lauren Kasper</figcaption>
 </figure>
-
-<figure>
-    <img src="/images/members/brian-morton.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=brian-morton"> Brian Morton </a></figcaption>
-</figure>
 </div>
 
 <br style="clear:both" />
 
 <div>
+<figure>
+    <img src="/images/members/brian-morton.jpg" >
+	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=brian-morton"> Brian Morton </a></figcaption>
+</figure>
 <figure>
     <img src="/images/members/sam-dunham.jpg" >
 	<figcaption>Sam Dunham</figcaption>
