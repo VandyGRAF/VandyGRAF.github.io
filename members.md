@@ -77,10 +77,6 @@ figcaption {
 	<img src="/images/members/JF-paquet.jpg">
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/jean-francois-paquet"> Jean-Francois Paquet </a></figcaption>
 </figure>
-<figure>
-    	<img src="/images/members/kelly-holley-bockelmann.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/kelly-holley-bockelmann"> Kelly-Holley Bockelmann </a></figcaption>
-</figure>
 </div>
 
 <br style="clear:both" />
@@ -127,10 +123,6 @@ figcaption {
     <img src="/images/members/momchil-velkovsky.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/momchil-velkovsky"> Momchil Velkovsky </a></figcaption>
 </figure>
-<figure>
-    <img src="/images/members/fabio-bemfica.jpg" >
-	<figcaption> Fabio Bemfica </figcaption>
-</figure>
 
 </div>
 
@@ -142,10 +134,6 @@ figcaption {
 	<figcaption><a href="https://my.vanderbilt.edu/shengquantuo/"> Shengquan Tuo </a></figcaption>
 </figure>
 <figure>
-    <img src="/images/members/lorenzo-gavassino.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=lorenzo-gavassino"> Lorenzo Gavassino </a></figcaption>
-</figure>
-<figure>
     <img src="/images/members/mayank-singh.jpg" >
 	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/mayank-singh/"> Mayank Singh </a></figcaption>
 </figure>
@@ -154,10 +142,6 @@ figcaption {
 <br style="clear:both" />
 
 <div>
-<figure>
-    <img src="/images/members/roman-berens.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/physics-astronomy/bio/roman-berens/"> Roman Berens </a></figcaption>
-</figure>
 <figure>
     <img src="/images/members/teerthal-patel.jpg" >
 	<figcaption> Teerthal Patel </figcaption>
@@ -177,10 +161,6 @@ figcaption {
 ## Graduate Students
 <div>
 <figure>
-    <img src="/images/members/trevor-gravely.jpg" >
-	<figcaption>Trevor Gravely</figcaption>
-</figure>
-<figure>
     <img src="/images/members/brandon-blankenship.jpg" >
 	<figcaption>Brandon Blankenship</figcaption>
 </figure>
@@ -196,11 +176,6 @@ figcaption {
 <figure>
     <img src="/images/members/luis-bichonIII.jpg" >
 	<figcaption>Luis Bichon</figcaption>
-</figure>
-
-<figure>
-    <img src="/images/members/runzhang-zhong.jpg" >
-	<figcaption><a href="https://as.vanderbilt.edu/math/bio/?who=runzhang-zhong"> Runzhang Zhong </a></figcaption>
 </figure>
 <figure>
     <img src="/images/members/will-mcdermott.jpg" >
