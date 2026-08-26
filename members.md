@@ -210,7 +210,7 @@ figcaption {
 <div>
 <figure>
     <img src="/images/members/isabelle-blackstad.jpeg" >
-	<figcaption> Isabelle Blackstad </a></figcaption>
+	<figcaption> Isabelle Blackstad </figcaption>
 </figure>
 <figure>
     <img src="/images/members/mirko-landivar-gareca.jpeg" >
