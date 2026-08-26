@@ -206,3 +206,18 @@ figcaption {
 </div>
 
 <br style="clear:both" />
+
+<div>
+<figure>
+    <img src="/images/members/isabelle-blackstad.jpeg" >
+	<figcaption> Isabelle Blackstad </a></figcaption>
+</figure>
+<figure>
+    <img src="/images/members/mirko-landivar-gareca.jpeg" >
+	<figcaption>Mirko R. Landivar Gareca</figcaption>
+</figure>
+
+</div>
+
+<br style="clear:both" />
+
