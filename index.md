@@ -19,6 +19,6 @@ feature_image: images/quanta-photon-ring.jpg
 <hr>
 
 ### Gilbert Weinstein, Ariel University, Israel
-**Thursday, October 8**
+**Thursday, October 8, 2026**
 
 <hr>
