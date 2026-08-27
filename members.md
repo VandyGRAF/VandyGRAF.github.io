@@ -216,7 +216,10 @@ figcaption {
     <img src="/images/members/mirko-landivar-gareca.jpeg" >
 	<figcaption>Mirko R. Landivar Gareca</figcaption>
 </figure>
-
+<figure>
+    <img src="/images/members/mckenna-sleeth.jpg" >
+	<figcaption>McKenna Sleeth</figcaption>
+</figure>
 </div>
 
 <br style="clear:both" />
