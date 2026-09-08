@@ -26,7 +26,7 @@ feature_image: images/quanta-photon-ring.jpg
 ### Khwahish Kushwah, *Universidade Federal Fluminense, Brazil*
 **Friday, October 2, 2026**
 
-## Roman Berens, *University of Illinois*
+### Roman Berens, *University of Illinois*
 **Friday October 16, 2026**
 
 ### Gilbert Weinstein, *Ariel University, Israel*
