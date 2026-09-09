@@ -39,5 +39,5 @@ feature_image: images/quanta-photon-ring.jpg
 **Friday, December 4, 2026**
 
 <hr>
-
+<hr>
 
