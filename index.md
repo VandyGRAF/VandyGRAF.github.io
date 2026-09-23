@@ -17,14 +17,10 @@ feature_image: images/quanta-photon-ring.jpg
 **All VandyGRAF talks will take place in the Chapel in the 17th&Horton building, unless indicated below.**
 
 <hr>
-### Lorenzo Gavassino, *University of Cambridge, UK*
-**Friday, September 11, 2026**
-##### Relativistic many-body dynamics in a single quantum particle
-*Abstract:* In this talk, I will present a novel approach for studying the linear-response properties of relativistic matter. I will show that a broad class of models, including kinetic theory and transient hydrodynamics, can be equivalently rewritten in the linear regime as Schrödinger equations in imaginary time. The resulting quantum systems typically involve a single particle in an electrically perturbed potential, making the problem analytically tractable in many cases. Moreover, the two descriptions are linked by a universal dictionary. Hydrodynamic and non-hydrodynamic modes become perturbed ground states and excited states, respectively; the free energy of the perturbation becomes the Hilbert-space norm; the entropy-production rate becomes the expectation value of the unperturbed Hamiltonian; and transport coefficients become perturbative Stark-splitting coefficients. I will then show how this quantum reformulation can be used to settle a long-standing question: how does relativistic causality constrain transport?
-
 ### Harikrishnan Ramani, *University of Delaware*
 **Friday, September 25, 2026**
-
+##### Did LZ detect an electroweak WIMP?
+*Abstract:* The LZ collaboration has reported a single 248 keV nuclear recoil in a search extended beyond the usual WIMP window. A TeV-scale electroweak WIMP scattering inelastically through the Z, of which the Higgsino is the canonical example, produces exactly this signature when its neutral mass splitting lies in the 100s of keV range. I will argue that neutrino annihilation in the sun as constrained by IceCube is a decisive probe of this interpretation. For a thermal Higgsino this excludes splittings below about 570 keV, well above those that fit the event. The interpretation can nonetheless survive if the local high-velocity tail is faster than the standard halo or if higher electroweak multiplets are invoked. That surviving region is testable by heavy-element paleo-detectors and by large neutrino detectors supplemented with lead or uranium, in which the up-scattered dark matter de-excites into a photon. 
 
 ### Khwahish Kushwah, *Universidade Federal Fluminense, Brazil*
 **Friday, October 2, 2026**
