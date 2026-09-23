@@ -4,6 +4,12 @@ title: VandyGRAF Archive
 description: Vandygraf archive 
 ---
 
+**2026-2027**
+
+| Date         | Speaker                                                      |
+|--------------|--------------------------------------------------------------|
+| September 11, 2026  | <a href="archived-speakers/2026-2027/lorenzo-gavassino"> Lorenzo Gavassino </a> 
+
 **2025-2026**
 
 | Date         | Speaker                                                      |
